@@ -54,20 +54,23 @@
     <Compile Include="DbExtensions\DynamicDataRowObject.cs" />
     <Compile Include="EnumerableExtensions\EnumerableExtender.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Repository\GenericRepository.cs" />
-    <Compile Include="Repository\IQueryRepository.cs" />
-    <Compile Include="Repository\IRepository.cs" />
-    <Compile Include="Repository\QueryRepository.cs" />
-    <Compile Include="UnitOfWork\DbContext\DbTransaction.cs" />
-    <Compile Include="UnitOfWork\ITransaction.cs" />
-    <Compile Include="UnitOfWork\IUnitOfWork.cs" />
-    <Compile Include="UnitOfWork\IUnitOfWorkFactory.cs" />
-    <Compile Include="UnitOfWork\DbContext\UnitOfWorkDb.cs" />
-    <Compile Include="UnitOfWork\DbContext\UnitOfWorkDbFactory.cs" />
+    <Compile Include="UDbContext\GenericRepository.cs" />
+    <Compile Include="IQueryRepository.cs" />
+    <Compile Include="IRepository.cs" />
+    <Compile Include="UDbContext\QueryRepositoryDbContext.cs" />
+    <Compile Include="UDbContext\DbTransaction.cs" />
+    <Compile Include="ITransaction.cs" />
+    <Compile Include="IUnitOfWork.cs" />
+    <Compile Include="IUnitOfWorkFactory.cs" />
+    <Compile Include="UDbContext\UnitOfWorkDb.cs" />
+    <Compile Include="UDbContext\UnitOfWorkDbFactory.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Repository\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

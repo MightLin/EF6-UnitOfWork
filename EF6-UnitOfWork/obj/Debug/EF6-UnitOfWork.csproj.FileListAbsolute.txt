@@ -1,0 +1,10 @@
+D:\GitHub\EF6-UnitOfWork\EF6-UnitOfWork\obj\Debug\EF6-UnitOfWork.csprojResolveAssemblyReference.cache
+D:\GitHub\EF6-UnitOfWork\EF6-UnitOfWork\bin\Debug\EF6-UnitOfWork.dll.config
+D:\GitHub\EF6-UnitOfWork\EF6-UnitOfWork\bin\Debug\EF6-UnitOfWork.dll
+D:\GitHub\EF6-UnitOfWork\EF6-UnitOfWork\bin\Debug\EF6-UnitOfWork.pdb
+D:\GitHub\EF6-UnitOfWork\EF6-UnitOfWork\bin\Debug\EntityFramework.dll
+D:\GitHub\EF6-UnitOfWork\EF6-UnitOfWork\bin\Debug\EntityFramework.SqlServer.dll
+D:\GitHub\EF6-UnitOfWork\EF6-UnitOfWork\bin\Debug\EntityFramework.xml
+D:\GitHub\EF6-UnitOfWork\EF6-UnitOfWork\bin\Debug\EntityFramework.SqlServer.xml
+D:\GitHub\EF6-UnitOfWork\EF6-UnitOfWork\obj\Debug\EF6-UnitOfWork.dll
+D:\GitHub\EF6-UnitOfWork\EF6-UnitOfWork\obj\Debug\EF6-UnitOfWork.pdb
