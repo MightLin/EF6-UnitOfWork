@@ -1,5 +1,0 @@
-D:\GitHub\EF6-UnitOfWork\EF6-UnitOfWork.nuget\bin\Debug\EF6-UnitOfWork.nuget.dll
-D:\GitHub\EF6-UnitOfWork\EF6-UnitOfWork.nuget\bin\Debug\EF6-UnitOfWork.nuget.pdb
-D:\GitHub\EF6-UnitOfWork\EF6-UnitOfWork.nuget\obj\Debug\EF6-UnitOfWork.nuget.csprojResolveAssemblyReference.cache
-D:\GitHub\EF6-UnitOfWork\EF6-UnitOfWork.nuget\obj\Debug\EF6-UnitOfWork.nuget.dll
-D:\GitHub\EF6-UnitOfWork\EF6-UnitOfWork.nuget\obj\Debug\EF6-UnitOfWork.nuget.pdb
