@@ -3,3 +3,5 @@
 /EF6-UnitOfWork.nuget/obj
 /EF6-UnitOfWork.nuget/bin
 /packages
+.vs
+packages
