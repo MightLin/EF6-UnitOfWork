@@ -1,2 +1,5 @@
 /EF6-UnitOfWork/obj
 /EF6-UnitOfWork/bin
+/EF6-UnitOfWork.nuget/obj
+/EF6-UnitOfWork.nuget/bin
+/packages
