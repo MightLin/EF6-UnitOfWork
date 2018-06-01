@@ -1,0 +1,1 @@
+nuget pack EF6-UnitOfWork.csproj
