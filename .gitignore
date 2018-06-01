@@ -5,3 +5,5 @@
 /packages
 .vs
 packages
+/EF6-UnitOfWork.nuget/NuGet.log
+/EF6-UnitOfWork.nuget/EF6_UnitOfWork.nuget.1.0.0.nupkg.bak
